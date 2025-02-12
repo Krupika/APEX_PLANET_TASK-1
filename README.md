@@ -10,4 +10,8 @@ A simple and elegant webpage showcasing different flowers, their meanings, and s
 - 📩 **Newsletter Subscription** – Users can subscribe via email.  
 - ⚡ **Built With** – HTML, CSS, and JavaScript.  
 
+- ## 👩‍💻 Author  
+👤 **Krupika**  
+🌐 GitHub: [github.com/Krupika](https://github.com/krupika)
+📧 Email: krupikaheerekar@gmail.com  
 
